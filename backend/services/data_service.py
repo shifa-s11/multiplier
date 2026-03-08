@@ -1,8 +1,7 @@
 from __future__ import annotations
 
+import csv
 from pathlib import Path
-
-import pandas as pd
 
 
 class DataService:
@@ -11,6 +10,29 @@ class DataService:
     BASE_DIR = Path(__file__).resolve().parents[2]
     PROCESSED_DIR = BASE_DIR / "data" / "processed"
 
+    @staticmethod
+    def _coerce_value(value: str):
+        """Best-effort conversion for JSON-friendly primitive types."""
+        if value is None:
+            return None
+
+        text = value.strip()
+        if text == "":
+            return None
+
+        lower = text.lower()
+        if lower == "true":
+            return True
+        if lower == "false":
+            return False
+
+        try:
+            if "." not in text:
+                return int(text)
+            return float(text)
+        except ValueError:
+            return text
+
     @classmethod
     def _load_csv(cls, filename: str) -> list[dict]:
         """Load a processed CSV file and return records for JSON responses."""
@@ -18,8 +40,12 @@ class DataService:
         if not file_path.exists():
             raise FileNotFoundError("Data file not found")
 
-        df = pd.read_csv(file_path)
-        return df.to_dict(orient="records")
+        with file_path.open(mode="r", encoding="utf-8", newline="") as csv_file:
+            rows = csv.DictReader(csv_file)
+            return [
+                {key: cls._coerce_value(value) for key, value in row.items()}
+                for row in rows
+            ]
 
     @classmethod
     def get_monthly_revenue(cls) -> list[dict]:
