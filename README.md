@@ -118,18 +118,14 @@ Run in this exact order for a full fresh setup:
 5. `cd frontend/dashboard && npm install && npm run dev`
 
 ## Project Screenshots
-Add dashboard screenshots here before final submission:
 
-- Overview dashboard
-  ![Dashboard Overview](./docs/screenshots/dashboard-overview.png)
+![image1](./image1.png)
 
-- Revenue and category charts
-  ![Charts View](./docs/screenshots/charts-view.png)
+![image2](./image2.png)
 
-- Top customers and regional analysis
-  ![Tables and Regions](./docs/screenshots/tables-regions.png)
-
+![image](./image.png)
 ## Testing
 ```bash
 pytest
 ```
+
