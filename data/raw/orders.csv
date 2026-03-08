@@ -1,0 +1,1001 @@
+order_id,customer_id,product,amount,order_date,status
+1,153,Bluetooth Speaker,982.49,19/03/2022,refunded
+2,9,Hoodie,1512.34,2024-01-15,completed
+3,106,Cookware Set,726.54,10/05/2023,completed
+4,170,Cookware Set,952.14,09-10-2022,refunded
+5,119,Yoga Mat,130.64,16/08/2022,refunded
+6,28,Yoga Mat,391.73,2023-12-30,canceled
+7,47,Cookware Set,623.45,29/07/2023,done
+8,2,Air Purifier,721.52,01/12/2023,done
+9,57,Fitness Tracker,480.58,11-04-2022,completed
+10,185,Coffee Maker,1266.55,2023-07-31,completed
+11,143,Office Chair,1096.11,07-31-2024,completed
+12,170,Backpack,55.84,2022-12-13,pending
+13,42,Cookware Set,315.67,2023-03-11,canceled
+14,43,Winter Jacket,582.62,2022-06-29,completed
+15,190,Cookware Set,653.48,2023-12-02,pending
+16,7,Running Shoes,33.05,2022-02-05,completed
+17,175,Office Chair,565.34,30/09/2022,completed
+18,153,Football,1468.1,2024-02-21,completed
+19,145,Hoodie,764.12,2022-01-22,completed
+20,56,Football,365.01,2024-12-20,canceled
+21,61,Yoga Mat,424.85,2023-03-19,completed
+22,125,Cookware Set,,03-13-2023,refunded
+23,103,Hoodie,617.15,08-11-2023,cancelled
+24,150,Hoodie,311.63,2023-12-02,completed
+25,24,Wireless Earbuds,250.88,05-19-2023,completed
+26,159,Table Lamp,816.6,08-27-2024,refunded
+27,79,Hoodie,,11-20-2024,completed
+28,181,Table Lamp,963.82,2022-08-08,done
+29,173,Running Shoes,30.25,2024-02-14,completed
+30,29,Table Lamp,482.56,26/11/2022,cancelled
+31,80,Smart Watch,107.55,12-27-2024,refunded
+32,160,Coffee Maker,630.54,10-05-2022,completed
+33,118,Backpack,54.75,20/11/2022,completed
+34,61,Office Chair,491.83,2024-02-22,canceled
+35,45,Fitness Tracker,549.49,05-14-2024,completed
+36,152,Running Shoes,120.72,05-21-2022,completed
+37,54,Backpack,174.32,2023-09-01,completed
+38,86,Backpack,199.85,14/01/2023,completed
+39,3,Backpack,197.46,02/11/2023,refunded
+40,98,Yoga Mat,401.26,03/09/2023,refunded
+41,174,Yoga Mat,528.23,16/12/2024,completed
+42,164,Running Shoes,32.29,10-20-2024,refunded
+43,154,Office Chair,1058.96,12-18-2023,completed
+44,173,Air Purifier,473.15,15/01/2024,completed
+45,123,Winter Jacket,490.72,2024-09-12,pending
+46,140,Office Chair,968.43,2022-07-21,canceled
+47,133,Yoga Mat,240.31,2024-03-06,completed
+48,191,Running Shoes,29.98,2024-04-26,completed
+49,114,Backpack,100.71,2022-05-20,pending
+50,159,Cookware Set,,23/08/2024,refunded
+51,196,Yoga Mat,503.12,2024-02-06,completed
+52,15,Cookware Set,1222.11,2023-01-16,completed
+53,73,Air Purifier,716.05,06-15-2023,cancelled
+54,124,Bluetooth Speaker,1882.34,2023-06-21,completed
+55,58,Winter Jacket,,04/10/2024,completed
+56,112,Wireless Earbuds,179.77,11-28-2024,completed
+57,15,Wireless Earbuds,380.92,03/06/2024,completed
+58,90,Winter Jacket,462.41,2023-12-16,pending
+59,178,Office Chair,844.63,2022-04-25,done
+60,199,Table Lamp,782.86,29/09/2024,cancelled
+61,145,Bluetooth Speaker,1241.74,27/05/2022,cancelled
+62,81,Cookware Set,1393.3,2022-07-02,canceled
+63,67,Running Shoes,69.51,18/03/2022,completed
+64,21,Bluetooth Speaker,504.82,04/11/2024,completed
+65,124,Fitness Tracker,118.3,2023-06-25,done
+66,182,Table Lamp,463.25,16/09/2022,completed
+67,120,Backpack,101.84,2022-03-30,cancelled
+68,89,Smart Watch,288.8,2023-03-28,cancelled
+69,16,Smart Watch,372.21,03-04-2024,completed
+70,110,Winter Jacket,,2024-12-26,pending
+71,172,Office Chair,916.65,29/08/2023,completed
+72,8,Hoodie,1123.57,28/10/2023,completed
+73,186,Yoga Mat,131.53,2024-07-05,pending
+74,113,Bluetooth Speaker,985.1,09-15-2024,completed
+75,40,Hoodie,729.54,2022-11-03,refunded
+76,11,Bluetooth Speaker,2026.27,2024-12-23,done
+77,21,Wireless Earbuds,317.2,07-23-2023,refunded
+78,178,Office Chair,900.93,10-16-2024,completed
+79,123,Office Chair,787.85,09/05/2022,completed
+80,189,Backpack,101.26,2022-04-17,completed
+81,148,Football,610.85,2024-08-27,completed
+82,15,Football,1242.16,08/01/2024,canceled
+83,70,Yoga Mat,121.98,2022-07-11,completed
+84,66,Hoodie,621.0,2024-09-07,completed
+85,194,Backpack,46.83,04-23-2022,refunded
+86,8,Smart Watch,222.75,2024-01-18,completed
+87,72,Hoodie,661.93,2022-08-13,completed
+88,84,Bluetooth Speaker,520.63,2022-03-19,completed
+89,155,Air Purifier,,02/06/2024,cancelled
+90,116,Table Lamp,1584.45,17/07/2024,refunded
+91,31,Running Shoes,103.17,04-26-2022,completed
+92,143,Yoga Mat,521.32,2022-04-13,done
+93,147,Coffee Maker,1275.87,2023-11-05,done
+94,10,Football,,01/02/2022,refunded
+95,172,Running Shoes,60.39,2024-03-28,completed
+96,60,Backpack,188.32,30/09/2024,completed
+97,21,Office Chair,,04-03-2024,done
+98,12,Smart Watch,452.47,10/09/2022,completed
+99,58,Fitness Tracker,276.4,28/07/2022,pending
+100,93,Cookware Set,,01-16-2024,cancelled
+101,59,Air Purifier,865.49,2022-03-09,completed
+102,120,Bluetooth Speaker,1944.27,08-13-2023,refunded
+103,13,Bluetooth Speaker,1654.39,07/05/2023,canceled
+104,107,Office Chair,838.23,27/03/2024,cancelled
+105,39,Coffee Maker,294.73,08-10-2022,completed
+106,179,Air Purifier,453.63,15/04/2024,done
+107,16,Running Shoes,98.2,06/02/2024,pending
+108,18,Coffee Maker,1011.85,2022-09-19,cancelled
+109,40,Yoga Mat,239.35,26/01/2023,refunded
+110,19,Fitness Tracker,264.72,14/03/2022,cancelled
+111,69,Table Lamp,399.42,2023-05-08,completed
+112,63,Backpack,93.67,10-13-2022,completed
+113,195,Wireless Earbuds,231.41,05/05/2022,completed
+114,73,Hoodie,366.07,2023-09-06,pending
+115,20,Wireless Earbuds,374.22,2023-09-15,pending
+116,131,Hoodie,316.68,05/04/2022,pending
+117,113,Wireless Earbuds,244.47,2022-07-23,completed
+118,194,Coffee Maker,564.24,2022-04-01,refunded
+119,101,Smart Watch,357.79,15/01/2024,done
+120,183,Smart Watch,409.74,2023-01-06,completed
+121,188,Fitness Tracker,417.31,2022-03-20,cancelled
+122,171,Fitness Tracker,412.26,29/07/2022,cancelled
+123,75,Smart Watch,295.07,2024-12-05,pending
+124,197,Hoodie,1054.54,10-08-2022,completed
+125,119,Yoga Mat,114.61,01-21-2024,refunded
+126,148,Yoga Mat,232.95,29/05/2023,canceled
+127,104,Yoga Mat,140.6,07-19-2022,cancelled
+128,146,Office Chair,545.62,12-03-2022,done
+129,90,Bluetooth Speaker,1541.62,2022-01-16,canceled
+130,196,Office Chair,282.52,03-29-2024,completed
+131,48,Running Shoes,33.87,2023-01-02,cancelled
+132,14,Wireless Earbuds,379.6,02/07/2023,pending
+133,173,Winter Jacket,307.5,17/06/2022,canceled
+134,89,Fitness Tracker,116.58,2024-06-22,completed
+135,111,Table Lamp,1162.94,2022-08-28,completed
+136,111,Winter Jacket,425.97,09-13-2023,done
+137,79,Yoga Mat,458.59,2024-08-14,completed
+138,73,Table Lamp,1672.99,2024-02-21,refunded
+139,42,Fitness Tracker,556.58,2023-10-24,completed
+140,197,Cookware Set,1061.72,31/08/2024,canceled
+141,2,Football,687.36,07-13-2022,done
+142,87,Cookware Set,1207.93,11-22-2024,completed
+143,56,Hoodie,735.66,03/09/2023,refunded
+144,124,Office Chair,,2023-03-26,completed
+145,87,Winter Jacket,,2022-10-08,pending
+146,59,Yoga Mat,481.58,27/03/2024,cancelled
+147,113,Running Shoes,62.65,12-05-2024,refunded
+148,31,Table Lamp,1230.15,01-27-2024,completed
+149,75,Fitness Tracker,570.9,05/02/2022,completed
+150,33,Cookware Set,1405.73,30/05/2023,cancelled
+151,30,Bluetooth Speaker,488.06,13/03/2024,pending
+152,146,Coffee Maker,833.87,12/03/2023,pending
+153,153,Running Shoes,35.13,27/04/2024,completed
+154,156,Football,1403.26,15/02/2024,completed
+155,192,Yoga Mat,117.73,15/03/2022,done
+156,27,Bluetooth Speaker,,09-04-2023,completed
+157,134,Air Purifier,256.97,08/07/2022,completed
+158,158,Football,662.61,2023-06-18,canceled
+159,138,Football,304.47,2023-02-26,completed
+160,44,Smart Watch,406.27,03/06/2024,cancelled
+161,184,Yoga Mat,,09/08/2024,completed
+162,101,Bluetooth Speaker,1283.08,21/05/2023,done
+163,123,Yoga Mat,115.8,08-12-2023,cancelled
+164,170,Air Purifier,573.16,2023-11-18,done
+165,5,Yoga Mat,482.11,20/12/2023,completed
+166,116,Smart Watch,390.18,11-28-2023,pending
+167,60,Coffee Maker,291.57,08/05/2024,refunded
+168,170,Wireless Earbuds,188.54,12/12/2024,completed
+169,199,Running Shoes,66.36,2024-06-26,completed
+170,147,Wireless Earbuds,,28/05/2022,completed
+171,165,Smart Watch,288.55,06-07-2023,canceled
+172,71,Office Chair,232.36,05-21-2023,cancelled
+173,86,Cookware Set,1340.05,12/07/2023,cancelled
+174,125,Table Lamp,417.6,2023-08-03,cancelled
+175,110,Smart Watch,217.12,26/02/2024,pending
+176,136,Wireless Earbuds,375.51,04-07-2023,pending
+177,115,Winter Jacket,467.66,2022-10-16,completed
+178,130,Backpack,117.07,05-17-2023,cancelled
+179,89,Table Lamp,,2024-07-25,completed
+180,83,Cookware Set,624.03,2022-12-08,done
+181,146,Winter Jacket,469.55,2022-01-23,refunded
+182,19,Bluetooth Speaker,413.27,2024-12-06,completed
+183,146,Wireless Earbuds,92.3,08-03-2022,pending
+184,43,Bluetooth Speaker,841.11,23/10/2023,completed
+185,86,Wireless Earbuds,245.75,2024-05-27,canceled
+186,50,Cookware Set,1342.98,28/10/2022,done
+187,3,Yoga Mat,226.05,2023-01-08,done
+188,186,Cookware Set,1186.29,2022-11-04,completed
+189,153,Air Purifier,811.03,2022-06-14,completed
+190,103,Air Purifier,231.06,17/06/2022,completed
+191,155,Office Chair,765.06,2022-07-24,completed
+192,147,Cookware Set,952.44,05-18-2023,completed
+193,60,Wireless Earbuds,,2023-08-05,completed
+194,141,Smart Watch,186.88,01-18-2022,canceled
+195,153,Office Chair,545.86,07-16-2024,completed
+196,17,Winter Jacket,522.66,2024-01-11,completed
+197,109,Air Purifier,706.08,2022-03-19,refunded
+198,177,Table Lamp,965.19,07-12-2024,pending
+199,83,Air Purifier,527.93,03/02/2022,refunded
+200,103,Running Shoes,67.61,07/09/2023,cancelled
+201,59,Yoga Mat,267.43,2023-05-25,done
+202,191,Table Lamp,911.1,2023-07-05,cancelled
+203,8,Running Shoes,70.45,13/11/2024,pending
+204,164,Coffee Maker,910.7,10-13-2024,cancelled
+205,166,Air Purifier,260.1,2022-11-02,completed
+206,79,Table Lamp,1245.89,09-28-2023,completed
+207,7,Fitness Tracker,,17/11/2024,pending
+208,150,Office Chair,533.51,2024-03-09,completed
+209,32,Yoga Mat,450.93,2024-08-30,refunded
+210,7,Winter Jacket,593.4,2023-04-22,completed
+211,43,Office Chair,,07/11/2022,completed
+212,126,Running Shoes,90.64,14/07/2023,completed
+213,56,Backpack,54.28,14/06/2024,refunded
+214,119,Running Shoes,67.4,2024-10-14,completed
+215,19,Backpack,154.47,22/01/2024,cancelled
+216,127,Table Lamp,1562.27,14/02/2024,done
+217,99,Hoodie,1023.67,15/07/2023,completed
+218,163,Smart Watch,389.94,17/12/2022,cancelled
+219,11,Table Lamp,914.55,2023-04-09,completed
+220,200,Smart Watch,103.07,30/06/2023,completed
+221,57,Winter Jacket,156.61,2024-06-12,cancelled
+222,142,Bluetooth Speaker,1393.09,2023-09-01,done
+223,21,Bluetooth Speaker,1556.47,2024-05-19,completed
+224,159,Bluetooth Speaker,989.92,30/01/2022,pending
+225,161,Wireless Earbuds,343.45,09/04/2024,completed
+226,43,Cookware Set,986.42,2023-07-10,pending
+227,86,Wireless Earbuds,152.0,12-30-2024,pending
+228,3,Winter Jacket,173.88,06-02-2023,pending
+229,130,Fitness Tracker,380.36,2023-06-09,pending
+230,122,Hoodie,978.64,20/05/2022,completed
+231,21,Cookware Set,370.74,2024-06-03,cancelled
+232,187,Bluetooth Speaker,981.38,02-08-2024,cancelled
+233,28,Hoodie,617.13,2024-08-03,cancelled
+234,195,Backpack,140.67,2022-04-12,completed
+235,15,Bluetooth Speaker,411.93,20/08/2022,completed
+236,67,Office Chair,1050.74,2024-08-19,completed
+237,116,Football,602.28,16/02/2022,completed
+238,158,Winter Jacket,347.05,11/07/2023,completed
+239,91,Bluetooth Speaker,515.48,2023-03-20,completed
+240,101,Football,1360.24,26/10/2024,cancelled
+241,149,Hoodie,356.73,07-27-2024,completed
+242,13,Hoodie,1317.02,09-09-2024,refunded
+243,38,Hoodie,619.94,13/11/2022,pending
+244,2,Football,1423.03,2023-10-06,cancelled
+245,98,Office Chair,231.55,2024-02-07,pending
+246,114,Bluetooth Speaker,418.75,11-26-2024,pending
+247,15,Backpack,200.33,01-09-2022,pending
+248,92,Running Shoes,115.17,06/12/2024,done
+249,32,Coffee Maker,899.67,01-25-2023,pending
+250,71,Backpack,55.16,2022-05-21,pending
+251,41,Hoodie,1489.42,06/11/2023,pending
+252,178,Yoga Mat,260.88,2024-05-06,cancelled
+253,156,Running Shoes,141.77,2022-05-23,completed
+254,147,Table Lamp,1696.19,14/02/2022,pending
+255,170,Wireless Earbuds,372.94,2024-09-09,pending
+256,39,Air Purifier,,10-20-2024,done
+257,147,Table Lamp,1213.89,2022-06-21,pending
+258,139,Air Purifier,857.86,09-17-2024,pending
+259,181,Winter Jacket,148.32,09-24-2024,canceled
+260,102,Cookware Set,584.58,29/12/2024,pending
+261,116,Winter Jacket,441.26,08-26-2022,completed
+262,22,Fitness Tracker,513.29,27/09/2023,completed
+263,31,Office Chair,741.47,2024-12-25,completed
+264,67,Wireless Earbuds,259.33,2024-09-16,completed
+265,166,Coffee Maker,333.28,2023-10-25,completed
+266,149,Wireless Earbuds,163.15,08-05-2022,cancelled
+267,184,Football,1013.96,03/04/2022,cancelled
+268,18,Backpack,201.81,2022-10-12,completed
+269,185,Winter Jacket,338.51,2022-03-13,pending
+270,182,Coffee Maker,279.34,03/08/2022,completed
+271,159,Backpack,94.85,03-24-2022,canceled
+272,128,Running Shoes,32.7,2024-04-15,completed
+273,49,Yoga Mat,397.61,10-09-2023,pending
+274,112,Office Chair,824.82,22/07/2023,completed
+275,88,Running Shoes,,06-06-2024,cancelled
+276,180,Table Lamp,1851.71,2023-03-27,completed
+277,185,Smart Watch,98.47,18/03/2023,cancelled
+278,44,Cookware Set,292.83,2022-08-15,completed
+279,118,Winter Jacket,284.49,2023-05-03,done
+280,135,Air Purifier,228.98,07-11-2022,pending
+281,44,Bluetooth Speaker,,08/10/2023,cancelled
+282,199,Winter Jacket,156.77,2024-12-29,refunded
+283,20,Table Lamp,418.74,08-08-2023,canceled
+284,132,Yoga Mat,516.33,2022-11-24,completed
+285,23,Smart Watch,402.55,25/01/2024,completed
+286,83,Coffee Maker,318.02,06-17-2024,completed
+287,133,Bluetooth Speaker,,02/06/2023,completed
+288,149,Yoga Mat,364.67,10-02-2022,pending
+289,80,Office Chair,740.51,22/02/2024,canceled
+290,56,Air Purifier,1053.44,07-25-2022,canceled
+291,78,Backpack,,29/12/2024,pending
+292,178,Fitness Tracker,126.64,15/12/2022,cancelled
+293,80,Cookware Set,633.61,2023-01-19,done
+294,122,Wireless Earbuds,269.98,03-07-2024,canceled
+295,60,Winter Jacket,487.74,2022-01-14,completed
+296,33,Wireless Earbuds,234.83,08-11-2022,pending
+297,104,Wireless Earbuds,338.76,2022-05-18,refunded
+298,47,Running Shoes,143.23,2023-03-05,completed
+299,17,Air Purifier,,08-30-2023,completed
+300,183,Football,730.83,2022-07-16,canceled
+301,100,Table Lamp,1194.88,2023-01-13,canceled
+302,122,Backpack,105.19,04-26-2024,done
+303,111,Table Lamp,851.87,2024-10-27,refunded
+304,56,Bluetooth Speaker,410.18,2022-01-16,completed
+305,6,Cookware Set,727.93,19/11/2023,completed
+306,10,Football,997.75,2022-01-29,pending
+307,137,Smart Watch,,2023-07-25,pending
+308,25,Coffee Maker,1155.76,2024-08-21,pending
+309,177,Cookware Set,720.01,2024-05-24,cancelled
+310,127,Coffee Maker,336.19,2022-09-13,completed
+311,15,Cookware Set,,2022-10-11,cancelled
+312,37,Hoodie,,08/05/2024,completed
+313,30,Coffee Maker,,17/06/2024,completed
+314,145,Wireless Earbuds,347.81,2022-11-04,completed
+315,18,Winter Jacket,695.81,2022-01-04,completed
+316,129,Running Shoes,32.19,05-03-2023,done
+317,197,Coffee Maker,862.76,11/11/2023,completed
+318,137,Air Purifier,470.48,02/05/2023,completed
+319,170,Office Chair,,21/10/2024,cancelled
+320,110,Bluetooth Speaker,1559.13,2024-06-10,pending
+321,155,Yoga Mat,112.57,05-13-2024,completed
+322,42,Fitness Tracker,280.83,01-23-2022,completed
+323,60,Wireless Earbuds,,07-24-2024,completed
+324,166,Running Shoes,58.58,2024-04-07,cancelled
+325,158,Football,912.92,2023-03-12,completed
+326,134,Smart Watch,211.7,2023-10-09,completed
+327,86,Office Chair,1062.84,2024-06-22,completed
+328,151,Running Shoes,29.24,2024-09-20,pending
+329,107,Smart Watch,109.36,27/08/2023,completed
+330,57,Office Chair,773.76,2022-02-15,refunded
+331,168,Coffee Maker,670.13,11-09-2023,completed
+332,79,Bluetooth Speaker,1526.37,2024-01-16,pending
+333,87,Smart Watch,108.82,2022-03-06,completed
+334,123,Bluetooth Speaker,1402.95,06-14-2024,completed
+335,70,Backpack,197.28,08-09-2022,completed
+336,31,Cookware Set,330.96,2024-09-02,refunded
+337,66,Bluetooth Speaker,840.97,27/08/2023,done
+338,110,Yoga Mat,528.52,2022-12-20,completed
+339,179,Winter Jacket,,2022-03-06,completed
+340,49,Winter Jacket,157.37,20/01/2022,done
+341,68,Running Shoes,29.13,2024-03-23,pending
+342,31,Wireless Earbuds,326.9,18/02/2023,completed
+343,110,Coffee Maker,1139.51,2024-07-09,completed
+344,172,Winter Jacket,,10/09/2022,cancelled
+345,136,Winter Jacket,335.83,10-05-2024,cancelled
+346,12,Running Shoes,116.59,2024-10-28,pending
+347,156,Football,365.01,2022-04-22,canceled
+348,36,Backpack,57.12,11/12/2023,pending
+349,179,Office Chair,986.36,10-26-2024,completed
+350,47,Running Shoes,33.94,21/12/2022,pending
+351,11,Cookware Set,1290.52,03-16-2022,completed
+352,182,Football,615.84,17/08/2024,completed
+353,62,Wireless Earbuds,346.11,2023-06-04,completed
+354,51,Football,302.36,30/01/2022,completed
+355,114,Fitness Tracker,579.51,2024-07-09,cancelled
+356,30,Smart Watch,111.58,01-15-2024,completed
+357,157,Table Lamp,467.98,2022-03-19,completed
+358,139,Smart Watch,307.98,2022-10-11,cancelled
+359,164,Wireless Earbuds,261.4,20/01/2022,pending
+360,39,Smart Watch,452.27,12/11/2024,refunded
+361,53,Office Chair,240.69,28/01/2022,refunded
+362,112,Backpack,47.07,22/05/2024,cancelled
+363,49,Office Chair,780.99,07-15-2023,completed
+364,4,Smart Watch,387.57,10-01-2023,pending
+365,36,Bluetooth Speaker,891.31,06-08-2024,pending
+366,157,Cookware Set,1163.0,07/09/2024,completed
+367,92,Hoodie,1420.01,20/05/2022,completed
+368,36,Table Lamp,1635.88,20/01/2022,completed
+369,25,Smart Watch,280.25,17/05/2022,pending
+370,104,Cookware Set,880.31,2024-01-19,completed
+371,34,Fitness Tracker,384.74,16/09/2023,completed
+372,197,Coffee Maker,998.9,2022-04-02,refunded
+373,168,Bluetooth Speaker,1341.85,2022-09-14,done
+374,120,Hoodie,1086.03,08-12-2023,completed
+375,49,Office Chair,,2024-03-11,done
+376,196,Wireless Earbuds,246.97,12/01/2023,completed
+377,160,Running Shoes,140.96,06/11/2024,done
+378,70,Office Chair,1073.83,2024-12-23,canceled
+379,65,Wireless Earbuds,261.5,04-19-2024,completed
+380,197,Yoga Mat,111.72,2023-05-13,cancelled
+381,80,Coffee Maker,810.7,08-19-2024,canceled
+382,17,Hoodie,776.77,03-08-2024,done
+383,61,Smart Watch,108.08,2023-07-24,canceled
+384,150,Air Purifier,285.54,2023-05-02,pending
+385,169,Football,1107.84,2024-07-01,completed
+386,173,Cookware Set,1167.3,2023-09-03,refunded
+387,104,Football,1080.66,2022-07-20,pending
+388,83,Bluetooth Speaker,920.58,12-31-2024,pending
+389,176,Cookware Set,353.82,2022-03-16,completed
+390,46,Hoodie,915.38,02-01-2024,pending
+391,70,Yoga Mat,120.63,2023-12-20,completed
+392,110,Coffee Maker,1293.91,10-05-2023,cancelled
+393,165,Coffee Maker,1306.31,2022-02-26,completed
+394,124,Coffee Maker,1254.77,24/06/2023,cancelled
+395,112,Yoga Mat,242.07,05/09/2024,refunded
+396,39,Hoodie,330.82,2022-09-20,pending
+397,169,Hoodie,772.7,01-28-2024,pending
+398,154,Winter Jacket,618.44,2024-07-30,completed
+399,87,Cookware Set,326.22,09/11/2024,canceled
+400,71,Winter Jacket,635.76,20/07/2023,cancelled
+401,106,Table Lamp,424.37,11/12/2022,completed
+402,175,Air Purifier,261.32,2024-02-06,completed
+403,168,Coffee Maker,,2023-06-17,completed
+404,31,Smart Watch,,2023-11-19,pending
+405,67,Backpack,173.22,2024-03-23,canceled
+406,170,Yoga Mat,281.22,2024-02-18,cancelled
+407,153,Running Shoes,99.57,09-24-2022,completed
+408,41,Bluetooth Speaker,1377.81,08/04/2024,done
+409,37,Hoodie,1092.67,17/08/2023,completed
+410,68,Smart Watch,328.38,2024-10-17,done
+411,158,Table Lamp,440.61,2023-12-24,completed
+412,14,Cookware Set,693.2,04/09/2024,pending
+413,103,Wireless Earbuds,273.48,2024-12-08,done
+414,59,Air Purifier,269.1,2024-12-25,completed
+415,6,Air Purifier,546.98,27/03/2024,cancelled
+416,184,Winter Jacket,145.79,17/10/2023,canceled
+417,25,Fitness Tracker,530.33,05-10-2022,completed
+418,150,Office Chair,,2023-02-28,completed
+419,63,Office Chair,,05/06/2023,cancelled
+420,142,Office Chair,836.16,2024-05-05,completed
+421,189,Cookware Set,339.35,2023-10-08,completed
+422,65,Backpack,95.5,04-27-2023,pending
+423,2,Winter Jacket,338.09,2022-06-10,cancelled
+424,15,Football,354.09,24/02/2024,completed
+425,74,Cookware Set,1405.2,19/04/2023,completed
+426,52,Football,982.28,2022-02-09,refunded
+427,8,Fitness Tracker,,11-08-2022,pending
+428,135,Winter Jacket,,21/08/2024,refunded
+429,193,Table Lamp,1324.22,05-11-2022,completed
+430,80,Yoga Mat,335.13,22/03/2023,canceled
+431,115,Yoga Mat,395.09,07-16-2023,cancelled
+432,167,Office Chair,1080.41,2022-04-02,completed
+433,110,Hoodie,705.07,01/07/2022,done
+434,65,Air Purifier,515.57,10-27-2024,pending
+435,147,Winter Jacket,506.4,2023-10-10,completed
+436,32,Office Chair,1071.2,2022-08-19,completed
+437,145,Yoga Mat,360.95,07-05-2022,cancelled
+438,179,Backpack,58.38,12/04/2023,completed
+439,155,Winter Jacket,,04/03/2024,completed
+440,80,Air Purifier,866.12,11/03/2024,completed
+441,194,Winter Jacket,174.98,08-02-2022,completed
+442,74,Yoga Mat,560.8,03-06-2024,completed
+443,49,Hoodie,1473.86,09/09/2024,pending
+444,156,Winter Jacket,644.51,2022-09-06,completed
+445,111,Smart Watch,93.03,2022-01-29,completed
+446,116,Winter Jacket,475.79,16/11/2024,pending
+447,42,Coffee Maker,973.57,07-27-2023,completed
+448,200,Smart Watch,304.89,30/04/2024,cancelled
+449,191,Yoga Mat,554.51,2022-12-17,completed
+450,105,Bluetooth Speaker,842.98,2022-11-24,completed
+451,48,Coffee Maker,887.83,04/09/2022,completed
+452,35,Fitness Tracker,398.48,08-26-2022,pending
+453,175,Hoodie,1364.54,2023-06-01,completed
+454,165,Winter Jacket,,26/04/2022,refunded
+455,57,Cookware Set,605.11,07-11-2024,completed
+456,111,Running Shoes,141.47,07-15-2023,pending
+457,64,Table Lamp,432.29,2024-09-30,pending
+458,80,Air Purifier,459.21,07-05-2023,completed
+459,143,Table Lamp,1148.31,29/11/2022,pending
+460,38,Table Lamp,,07-19-2023,completed
+461,193,Coffee Maker,559.69,2022-06-19,completed
+462,71,Running Shoes,102.94,22/06/2024,completed
+463,101,Coffee Maker,980.25,29/02/2024,refunded
+464,26,Cookware Set,308.58,2022-06-11,canceled
+465,60,Hoodie,709.32,30/09/2023,completed
+466,174,Football,307.94,13/08/2023,pending
+467,44,Bluetooth Speaker,1330.58,09/08/2022,cancelled
+468,54,Air Purifier,564.94,2022-05-14,completed
+469,166,Smart Watch,306.61,13/04/2024,refunded
+470,133,Fitness Tracker,435.36,2022-10-17,cancelled
+471,18,Hoodie,1294.46,07-23-2023,done
+472,172,Wireless Earbuds,82.36,09-29-2022,canceled
+473,143,Backpack,208.51,2023-12-18,completed
+474,180,Hoodie,345.17,2022-02-23,completed
+475,30,Cookware Set,370.59,2023-01-29,pending
+476,31,Winter Jacket,142.18,23/08/2023,completed
+477,131,Smart Watch,109.8,04-27-2023,completed
+478,200,Football,1464.44,03/11/2023,canceled
+479,11,Football,340.65,2022-07-17,completed
+480,180,Air Purifier,744.57,2023-04-30,pending
+481,1,Hoodie,696.97,2024-04-09,refunded
+482,190,Wireless Earbuds,81.58,01-01-2023,completed
+483,91,Backpack,112.66,22/06/2022,pending
+484,26,Wireless Earbuds,,18/07/2024,canceled
+485,177,Hoodie,765.77,2024-05-03,pending
+486,158,Fitness Tracker,409.81,01-16-2024,completed
+487,94,Football,1012.37,2024-05-24,completed
+488,161,Air Purifier,542.57,05-03-2024,canceled
+489,123,Smart Watch,404.85,03-29-2024,completed
+490,121,Wireless Earbuds,283.21,13/07/2023,pending
+491,105,Winter Jacket,289.72,01-22-2022,completed
+492,124,Table Lamp,968.09,2023-10-17,completed
+493,96,Bluetooth Speaker,501.31,27/10/2022,canceled
+494,136,Cookware Set,1438.23,2024-04-27,pending
+495,81,Running Shoes,130.16,29/05/2023,canceled
+496,137,Coffee Maker,659.72,2024-09-19,completed
+497,86,Running Shoes,,2023-10-15,pending
+498,71,Office Chair,818.52,2023-08-27,done
+499,126,Office Chair,,2024-10-04,completed
+500,6,Wireless Earbuds,81.88,05/06/2023,completed
+501,43,Air Purifier,1018.35,16/02/2023,done
+502,95,Table Lamp,1660.55,2023-02-12,completed
+503,107,Hoodie,1349.21,08-17-2024,pending
+504,108,Yoga Mat,548.53,04-08-2024,canceled
+505,83,Football,1265.3,2022-06-29,completed
+506,200,Football,1069.2,24/06/2023,completed
+507,137,Hoodie,310.8,11/02/2023,completed
+508,164,Winter Jacket,,12-10-2023,completed
+509,102,Cookware Set,,2022-02-27,completed
+510,87,Air Purifier,251.82,02-22-2024,cancelled
+511,175,Wireless Earbuds,362.35,2024-03-24,completed
+512,22,Yoga Mat,560.33,2022-09-06,cancelled
+513,108,Fitness Tracker,,06-15-2022,completed
+514,184,Bluetooth Speaker,1360.18,19/11/2023,completed
+515,41,Office Chair,255.47,10-09-2022,completed
+516,138,Table Lamp,463.51,2024-10-28,cancelled
+517,83,Bluetooth Speaker,1769.11,2024-04-29,pending
+518,11,Coffee Maker,654.77,2024-11-12,completed
+519,114,Running Shoes,93.92,2023-08-10,done
+520,125,Air Purifier,554.52,2024-10-25,pending
+521,187,Running Shoes,29.38,16/01/2022,completed
+522,146,Hoodie,1233.26,14/11/2022,done
+523,153,Smart Watch,453.56,03/01/2022,completed
+524,35,Hoodie,1134.35,2024-01-13,completed
+525,90,Table Lamp,948.93,2023-07-14,pending
+526,154,Cookware Set,1100.57,12/11/2022,completed
+527,20,Cookware Set,1302.03,2022-12-01,completed
+528,192,Bluetooth Speaker,1324.87,12-07-2023,cancelled
+529,50,Football,611.87,2022-07-17,completed
+530,15,Air Purifier,516.16,18/07/2023,refunded
+531,193,Hoodie,,11-04-2023,canceled
+532,123,Football,744.01,21/09/2022,pending
+533,131,Air Purifier,680.37,08/09/2022,cancelled
+534,33,Winter Jacket,143.28,24/01/2023,cancelled
+535,117,Smart Watch,94.86,2023-10-12,canceled
+536,85,Smart Watch,374.77,06/10/2022,completed
+537,183,Winter Jacket,292.88,02-20-2023,completed
+538,167,Cookware Set,686.12,08-19-2023,pending
+539,144,Coffee Maker,875.91,24/07/2022,pending
+540,5,Coffee Maker,626.69,2023-09-16,completed
+541,78,Running Shoes,143.15,06-01-2022,pending
+542,141,Air Purifier,264.46,06/06/2022,completed
+543,100,Backpack,219.97,2022-09-17,done
+544,94,Hoodie,335.48,2022-11-11,completed
+545,14,Fitness Tracker,243.26,2022-02-02,completed
+546,130,Backpack,,19/11/2024,completed
+547,48,Football,1497.45,2022-12-04,completed
+548,125,Office Chair,264.07,2024-05-31,completed
+549,68,Hoodie,,2024-09-15,completed
+550,4,Winter Jacket,155.06,05-27-2024,completed
+551,62,Smart Watch,109.39,2024-06-30,completed
+552,193,Office Chair,1067.96,2022-04-20,completed
+553,144,Smart Watch,307.84,12/02/2023,completed
+554,21,Smart Watch,221.23,2024-03-28,completed
+555,20,Football,1051.28,09-24-2023,completed
+556,181,Table Lamp,898.1,01-07-2022,completed
+557,4,Running Shoes,60.41,14/09/2023,completed
+558,198,Cookware Set,597.51,31/05/2024,completed
+559,150,Smart Watch,225.18,2024-06-27,cancelled
+560,59,Yoga Mat,521.08,2023-02-25,canceled
+561,15,Fitness Tracker,259.81,2022-09-16,done
+562,53,Yoga Mat,259.93,2022-12-06,pending
+563,39,Fitness Tracker,355.38,2022-11-21,pending
+564,97,Football,1450.81,15/01/2023,completed
+565,43,Wireless Earbuds,159.97,2022-11-27,refunded
+566,62,Wireless Earbuds,369.23,2023-05-17,cancelled
+567,58,Hoodie,699.54,14/02/2022,refunded
+568,8,Coffee Maker,864.55,29/10/2022,done
+569,82,Coffee Maker,1079.48,2022-12-11,completed
+570,58,Office Chair,,2022-06-18,cancelled
+571,40,Office Chair,236.22,2024-08-20,refunded
+572,77,Fitness Tracker,354.41,2024-01-11,completed
+573,179,Air Purifier,,09-26-2024,done
+574,145,Bluetooth Speaker,897.61,09-08-2023,completed
+575,169,Backpack,204.33,01/05/2022,canceled
+576,92,Fitness Tracker,248.91,18/09/2024,refunded
+577,178,Smart Watch,329.92,05-18-2023,completed
+578,8,Winter Jacket,447.54,21/01/2024,cancelled
+579,153,Table Lamp,403.27,2023-02-22,completed
+580,182,Backpack,100.12,2023-06-26,refunded
+581,88,Bluetooth Speaker,1296.34,21/06/2023,refunded
+582,154,Wireless Earbuds,,09/11/2022,pending
+583,113,Air Purifier,463.52,2023-08-31,done
+584,56,Office Chair,,2024-03-15,completed
+585,60,Hoodie,1359.37,2022-01-23,completed
+586,199,Coffee Maker,333.0,2022-05-24,completed
+587,134,Football,1199.88,12/07/2024,completed
+588,89,Running Shoes,60.77,17/09/2023,completed
+589,49,Office Chair,845.99,03/12/2024,completed
+590,167,Bluetooth Speaker,1530.47,2023-10-25,completed
+591,28,Air Purifier,538.59,2023-12-18,completed
+592,76,Bluetooth Speaker,1745.42,09-12-2024,done
+593,31,Coffee Maker,298.83,25/12/2023,completed
+594,163,Winter Jacket,145.88,2022-12-28,done
+595,47,Bluetooth Speaker,1694.57,2023-08-02,completed
+596,92,Smart Watch,294.47,09-16-2022,completed
+597,37,Coffee Maker,1241.72,01-02-2023,pending
+598,61,Hoodie,670.02,01-16-2024,completed
+599,97,Bluetooth Speaker,478.43,13/06/2022,completed
+600,107,Office Chair,,07/01/2024,pending
+601,93,Running Shoes,,03/10/2023,completed
+602,77,Cookware Set,353.91,2022-12-04,completed
+603,73,Office Chair,1120.47,19/02/2022,pending
+604,50,Hoodie,331.8,12/02/2024,completed
+605,104,Running Shoes,132.99,2024-06-22,refunded
+606,130,Smart Watch,95.65,03-11-2024,completed
+607,24,Air Purifier,229.9,2023-04-07,canceled
+608,79,Backpack,,2023-12-18,refunded
+609,24,Hoodie,319.03,2023-03-31,canceled
+610,80,Football,660.38,01-28-2023,refunded
+611,116,Football,670.44,12-25-2022,completed
+612,45,Backpack,145.38,20/08/2022,pending
+613,177,Winter Jacket,,11-28-2024,completed
+614,190,Office Chair,246.95,01-01-2024,refunded
+615,42,Bluetooth Speaker,517.23,07-11-2022,pending
+616,141,Office Chair,263.66,08-06-2024,completed
+617,85,Winter Jacket,152.4,2022-06-15,done
+618,65,Wireless Earbuds,76.26,10-13-2023,completed
+619,1,Running Shoes,66.95,01/07/2022,pending
+620,100,Air Purifier,697.03,01-31-2023,cancelled
+621,28,Winter Jacket,317.13,2023-12-23,completed
+622,62,Hoodie,736.35,12-31-2024,pending
+623,127,Coffee Maker,598.23,12-23-2024,refunded
+624,198,Hoodie,989.67,2024-09-08,completed
+625,29,Backpack,93.41,09-16-2022,pending
+626,77,Wireless Earbuds,75.97,2022-04-13,completed
+627,52,Running Shoes,64.24,2024-09-19,cancelled
+628,79,Fitness Tracker,145.04,2024-10-08,completed
+629,9,Air Purifier,483.79,11-02-2022,canceled
+630,126,Yoga Mat,518.0,22/01/2022,done
+631,36,Coffee Maker,636.99,2023-12-12,completed
+632,68,Football,300.26,25/03/2022,completed
+633,98,Winter Jacket,430.98,2022-02-14,pending
+634,4,Wireless Earbuds,82.39,24/10/2024,cancelled
+635,197,Yoga Mat,132.48,06-28-2023,completed
+636,29,Hoodie,341.7,03/05/2022,completed
+637,61,Table Lamp,,12-19-2023,completed
+638,75,Cookware Set,1440.44,09/02/2023,canceled
+639,35,Football,1072.42,08-11-2023,pending
+640,39,Smart Watch,339.77,2024-09-12,done
+641,198,Yoga Mat,,2022-09-18,pending
+642,76,Wireless Earbuds,279.92,2023-12-10,done
+643,23,Wireless Earbuds,278.67,27/06/2024,completed
+644,187,Cookware Set,1396.16,10/04/2023,completed
+645,190,Hoodie,1117.18,11-29-2024,done
+646,161,Bluetooth Speaker,515.23,2023-05-07,canceled
+647,43,Fitness Tracker,263.67,2023-05-19,completed
+648,140,Air Purifier,1066.82,27/08/2024,completed
+649,112,Smart Watch,202.97,11-28-2023,pending
+650,163,Football,365.07,2024-08-10,completed
+651,107,Football,1322.61,2024-05-16,completed
+652,83,Air Purifier,834.37,2024-02-20,done
+653,112,Fitness Tracker,426.96,22/09/2022,completed
+654,5,Winter Jacket,349.24,2023-03-14,cancelled
+655,188,Table Lamp,407.37,2024-08-05,completed
+656,62,Office Chair,539.13,07/11/2023,completed
+657,142,Hoodie,737.19,2022-11-04,cancelled
+658,118,Wireless Earbuds,380.28,2022-12-25,completed
+659,26,Bluetooth Speaker,1024.15,2024-04-30,cancelled
+660,197,Hoodie,353.08,07-15-2022,completed
+661,173,Yoga Mat,259.32,03/05/2022,canceled
+662,34,Yoga Mat,,2024-04-18,cancelled
+663,169,Table Lamp,968.43,2022-11-13,done
+664,122,Bluetooth Speaker,876.01,18/04/2024,completed
+665,39,Coffee Maker,,08-08-2023,completed
+666,178,Yoga Mat,409.14,2024-12-29,completed
+667,44,Bluetooth Speaker,918.33,2023-07-30,pending
+668,7,Hoodie,1289.71,2024-08-08,completed
+669,161,Bluetooth Speaker,1291.51,21/07/2024,completed
+670,110,Smart Watch,109.91,08-21-2022,completed
+671,87,Fitness Tracker,265.97,27/12/2024,completed
+672,184,Football,1210.66,2024-03-28,completed
+673,17,Smart Watch,212.94,04-28-2022,completed
+674,6,Fitness Tracker,373.66,01-07-2022,completed
+675,129,Air Purifier,845.06,2022-10-25,pending
+676,90,Cookware Set,945.39,2022-01-18,completed
+677,57,Smart Watch,374.9,2023-01-27,completed
+678,58,Hoodie,311.74,12-28-2024,pending
+679,14,Backpack,157.94,09/06/2023,refunded
+680,199,Cookware Set,979.53,27/01/2022,completed
+681,148,Winter Jacket,166.56,06-26-2023,pending
+682,15,Hoodie,,2022-08-29,canceled
+683,138,Backpack,50.5,2024-07-27,pending
+684,15,Smart Watch,190.48,2022-04-10,done
+685,99,Football,636.17,04-24-2024,refunded
+686,75,Table Lamp,479.23,04/05/2023,completed
+687,185,Yoga Mat,467.25,2022-01-21,completed
+688,16,Air Purifier,288.72,2024-01-08,cancelled
+689,179,Winter Jacket,300.63,05-14-2023,canceled
+690,17,Air Purifier,928.4,04-25-2024,pending
+691,117,Hoodie,1302.4,09/11/2023,completed
+692,57,Football,300.06,2024-05-12,pending
+693,69,Running Shoes,69.98,05-20-2023,completed
+694,11,Hoodie,1043.77,01-09-2022,cancelled
+695,78,Office Chair,985.03,24/05/2022,pending
+696,76,Fitness Tracker,551.51,18/05/2023,cancelled
+697,176,Table Lamp,1343.31,03-12-2023,done
+698,175,Coffee Maker,337.49,05-20-2024,pending
+699,92,Office Chair,1141.23,28/03/2023,pending
+700,41,Office Chair,,31/07/2024,cancelled
+701,27,Cookware Set,356.1,2022-07-25,refunded
+702,195,Winter Jacket,504.39,02-26-2023,done
+703,5,Yoga Mat,380.8,08/04/2024,completed
+704,105,Winter Jacket,164.76,2022-05-17,pending
+705,19,Bluetooth Speaker,417.92,2022-12-19,completed
+706,184,Winter Jacket,500.44,04-04-2024,done
+707,142,Smart Watch,225.01,10-08-2023,cancelled
+708,68,Smart Watch,272.64,05-02-2024,completed
+709,148,Fitness Tracker,287.02,20/07/2023,completed
+710,170,Smart Watch,,07-30-2024,completed
+711,171,Air Purifier,481.55,08-19-2024,cancelled
+712,190,Table Lamp,873.14,2024-12-04,completed
+713,5,Fitness Tracker,292.95,2022-05-14,completed
+714,111,Office Chair,855.73,10-10-2023,done
+715,111,Bluetooth Speaker,1270.69,2022-05-06,cancelled
+716,147,Football,971.69,08/09/2022,completed
+717,175,Cookware Set,,26/11/2022,completed
+718,171,Backpack,48.94,10/12/2023,canceled
+719,108,Smart Watch,387.18,2023-04-18,cancelled
+720,27,Wireless Earbuds,227.81,08-05-2024,pending
+721,110,Yoga Mat,349.36,2022-11-24,completed
+722,90,Bluetooth Speaker,1891.7,11-08-2023,completed
+723,46,Cookware Set,1371.28,2024-04-16,completed
+724,14,Running Shoes,101.59,10/12/2024,cancelled
+725,10,Yoga Mat,543.35,09-26-2022,completed
+726,151,Hoodie,679.39,2024-03-15,completed
+727,65,Cookware Set,936.67,2022-04-03,cancelled
+728,117,Running Shoes,57.63,08-19-2023,canceled
+729,141,Winter Jacket,,2023-03-30,cancelled
+730,143,Coffee Maker,290.85,2024-11-16,pending
+731,87,Backpack,193.52,27/04/2024,pending
+732,158,Hoodie,306.26,10-13-2024,completed
+733,35,Football,924.56,21/07/2024,completed
+734,56,Hoodie,360.91,2023-03-27,pending
+735,42,Wireless Earbuds,88.64,03-14-2024,completed
+736,30,Running Shoes,144.6,03/02/2022,pending
+737,181,Air Purifier,1107.06,04/09/2023,done
+738,175,Wireless Earbuds,87.35,21/02/2022,canceled
+739,41,Winter Jacket,143.06,2024-03-04,completed
+740,181,Bluetooth Speaker,1892.49,2024-11-25,completed
+741,178,Football,1201.3,17/01/2024,completed
+742,179,Wireless Earbuds,84.48,2024-07-09,completed
+743,166,Bluetooth Speaker,1360.12,14/09/2022,completed
+744,86,Bluetooth Speaker,915.28,2024-12-25,completed
+745,83,Bluetooth Speaker,1322.48,2023-08-27,cancelled
+746,25,Air Purifier,539.39,2024-01-10,pending
+747,58,Winter Jacket,169.99,24/04/2024,done
+748,196,Football,716.61,12-02-2023,completed
+749,126,Running Shoes,101.09,2022-12-14,completed
+750,170,Air Purifier,,2023-11-02,completed
+751,177,Backpack,46.5,2023-12-18,completed
+752,22,Backpack,221.42,07-28-2024,completed
+753,84,Table Lamp,1316.11,2023-06-12,canceled
+754,29,Running Shoes,123.4,07-04-2023,completed
+755,153,Coffee Maker,1167.98,2023-07-06,completed
+756,153,Cookware Set,365.59,2022-05-06,pending
+757,50,Cookware Set,340.5,04-09-2022,pending
+758,25,Backpack,208.77,23/01/2022,pending
+759,36,Backpack,54.05,2024-01-01,completed
+760,39,Cookware Set,323.53,04-05-2023,refunded
+761,147,Backpack,104.24,2024-08-06,completed
+762,68,Hoodie,1316.48,2024-02-09,completed
+763,183,Smart Watch,398.53,2022-06-05,cancelled
+764,117,Winter Jacket,492.13,20/04/2022,done
+765,16,Smart Watch,89.77,02-06-2023,completed
+766,130,Smart Watch,216.78,2024-10-06,pending
+767,31,Coffee Maker,,02-23-2022,completed
+768,60,Running Shoes,,25/07/2022,completed
+769,13,Office Chair,796.15,02-02-2022,completed
+770,145,Office Chair,266.0,03-30-2023,cancelled
+771,67,Backpack,107.77,12-20-2024,completed
+772,168,Hoodie,385.7,20/01/2024,cancelled
+773,142,Cookware Set,993.46,2023-06-25,completed
+774,114,Winter Jacket,663.32,08/06/2022,done
+775,79,Yoga Mat,133.58,25/01/2023,refunded
+776,121,Table Lamp,1624.12,29/07/2023,completed
+777,64,Smart Watch,287.32,10-29-2022,completed
+778,47,Air Purifier,1012.89,2024-02-12,completed
+779,52,Office Chair,970.2,12-10-2024,done
+780,126,Bluetooth Speaker,450.7,2022-08-14,completed
+781,144,Backpack,153.31,10-04-2022,pending
+782,26,Yoga Mat,391.27,2022-05-19,completed
+783,96,Bluetooth Speaker,434.02,2024-03-06,refunded
+784,75,Backpack,112.79,05-22-2023,pending
+785,169,Bluetooth Speaker,1834.98,11-07-2022,pending
+786,34,Fitness Tracker,417.92,08-29-2022,canceled
+787,55,Bluetooth Speaker,836.57,03-19-2022,completed
+788,75,Office Chair,509.15,2023-06-06,refunded
+789,193,Cookware Set,1169.81,01-19-2024,completed
+790,68,Running Shoes,68.16,2022-09-15,pending
+791,171,Table Lamp,417.4,02/01/2022,done
+792,11,Fitness Tracker,441.5,03/06/2023,cancelled
+793,122,Football,1287.43,2024-01-11,cancelled
+794,151,Bluetooth Speaker,473.09,14/01/2023,completed
+795,68,Fitness Tracker,249.57,10-02-2022,completed
+796,184,Hoodie,714.04,2022-06-19,completed
+797,22,Table Lamp,430.46,03-28-2024,pending
+798,46,Bluetooth Speaker,1353.43,02/08/2024,pending
+799,42,Cookware Set,,2024-04-23,completed
+800,109,Smart Watch,91.54,22/07/2023,completed
+801,102,Air Purifier,468.17,2024-03-04,completed
+802,150,Coffee Maker,1367.57,2023-03-12,completed
+803,31,Coffee Maker,1193.1,27/01/2022,completed
+804,139,Coffee Maker,803.3,2023-02-07,done
+805,150,Wireless Earbuds,190.84,2024-02-11,pending
+806,45,Coffee Maker,1076.44,12-11-2023,completed
+807,16,Hoodie,339.97,2024-12-21,cancelled
+808,62,Office Chair,810.17,12-29-2024,refunded
+809,72,Yoga Mat,420.2,09-23-2022,completed
+810,27,Hoodie,1094.61,2022-01-11,completed
+811,114,Smart Watch,100.22,28/10/2022,completed
+812,153,Coffee Maker,1020.19,2024-08-18,completed
+813,95,Coffee Maker,811.64,10/06/2024,cancelled
+814,83,Coffee Maker,1363.96,2022-04-19,canceled
+815,108,Football,364.94,06-25-2022,completed
+816,93,Office Chair,849.85,2023-09-10,cancelled
+817,174,Hoodie,1304.45,25/12/2023,completed
+818,176,Smart Watch,184.6,2024-12-12,pending
+819,176,Table Lamp,1353.69,2024-04-07,cancelled
+820,92,Air Purifier,259.0,21/08/2022,completed
+821,171,Running Shoes,98.58,10/02/2022,completed
+822,62,Running Shoes,,11-26-2023,pending
+823,108,Fitness Tracker,136.52,2023-08-30,canceled
+824,70,Backpack,50.08,2024-10-07,completed
+825,64,Backpack,153.66,2023-09-24,completed
+826,131,Wireless Earbuds,78.24,2023-07-04,completed
+827,4,Air Purifier,477.28,11-29-2022,pending
+828,43,Hoodie,,04-05-2022,pending
+829,63,Wireless Earbuds,369.71,08-18-2024,refunded
+830,137,Coffee Maker,960.07,2024-06-24,cancelled
+831,104,Coffee Maker,1228.2,28/06/2022,done
+832,43,Football,325.98,02-11-2024,refunded
+833,188,Yoga Mat,132.43,2023-02-04,completed
+834,18,Coffee Maker,984.17,24/04/2023,pending
+835,48,Fitness Tracker,434.9,2024-07-19,completed
+836,124,Wireless Earbuds,347.64,2024-07-11,completed
+837,137,Cookware Set,1425.06,07-28-2022,canceled
+838,187,Cookware Set,1325.57,2022-12-04,cancelled
+839,155,Fitness Tracker,131.81,06-19-2024,canceled
+840,18,Backpack,114.36,2024-10-02,completed
+841,64,Table Lamp,1687.67,2022-03-28,pending
+842,97,Table Lamp,1268.78,2024-07-02,pending
+843,97,Football,1281.12,2023-06-21,completed
+844,131,Office Chair,772.87,09/10/2023,completed
+845,153,Office Chair,259.26,2022-03-24,pending
+846,128,Backpack,109.11,16/01/2024,completed
+847,66,Bluetooth Speaker,1831.78,01-13-2024,canceled
+848,155,Cookware Set,923.21,2023-12-28,completed
+849,187,Table Lamp,472.77,2024-05-16,completed
+850,31,Backpack,50.53,02/11/2024,cancelled
+851,11,Yoga Mat,561.3,07-20-2024,completed
+852,180,Winter Jacket,582.94,27/03/2024,done
+853,67,Office Chair,1040.85,2024-12-11,cancelled
+854,67,Backpack,52.97,10/01/2024,completed
+855,58,Table Lamp,1406.18,07/01/2024,cancelled
+856,166,Fitness Tracker,483.81,2023-08-18,cancelled
+857,125,Football,1109.72,2024-04-22,cancelled
+858,37,Hoodie,1048.56,03-20-2022,refunded
+859,167,Fitness Tracker,270.84,2023-07-09,cancelled
+860,26,Winter Jacket,157.33,2023-04-12,pending
+861,47,Air Purifier,457.61,2024-09-27,completed
+862,70,Office Chair,768.82,21/03/2022,cancelled
+863,132,Backpack,49.47,07/12/2023,canceled
+864,159,Cookware Set,317.8,2022-07-22,pending
+865,7,Winter Jacket,,26/08/2024,cancelled
+866,79,Coffee Maker,1218.49,22/07/2024,completed
+867,70,Wireless Earbuds,232.2,2022-09-16,cancelled
+868,131,Table Lamp,1166.26,08-13-2024,canceled
+869,40,Coffee Maker,,2023-06-29,completed
+870,80,Office Chair,237.12,2024-11-30,completed
+871,179,Coffee Maker,625.69,03-10-2024,pending
+872,35,Running Shoes,30.11,02-07-2022,pending
+873,50,Air Purifier,1128.09,2022-08-11,pending
+874,120,Table Lamp,1612.9,03-19-2023,completed
+875,57,Winter Jacket,282.57,20/08/2022,completed
+876,48,Smart Watch,220.77,2022-05-26,pending
+877,48,Winter Jacket,298.21,12-07-2024,pending
+878,164,Bluetooth Speaker,,08-10-2024,cancelled
+879,16,Winter Jacket,349.02,2023-04-22,cancelled
+880,23,Backpack,232.76,24/08/2022,cancelled
+881,138,Smart Watch,212.83,2022-07-19,refunded
+882,75,Table Lamp,1164.96,2024-09-30,pending
+883,114,Running Shoes,100.26,12-30-2022,pending
+884,43,Football,752.79,14/01/2022,pending
+885,63,Fitness Tracker,588.37,12/03/2023,completed
+886,181,Yoga Mat,,13/05/2023,completed
+887,94,Air Purifier,1005.82,14/11/2023,pending
+888,146,Smart Watch,386.27,2023-01-07,done
+889,93,Smart Watch,,10-08-2024,cancelled
+890,175,Hoodie,363.34,07/12/2023,completed
+891,190,Cookware Set,936.75,17/12/2024,pending
+892,10,Bluetooth Speaker,896.43,07/02/2023,completed
+893,93,Yoga Mat,228.99,2023-12-16,cancelled
+894,86,Bluetooth Speaker,465.61,2023-02-05,refunded
+895,66,Winter Jacket,287.71,2024-02-07,pending
+896,38,Yoga Mat,250.19,2024-03-28,pending
+897,84,Yoga Mat,232.27,19/12/2022,completed
+898,84,Coffee Maker,1015.6,10-24-2024,completed
+899,140,Bluetooth Speaker,1276.51,2024-07-28,done
+900,180,Football,676.15,2024-09-07,cancelled
+901,142,Fitness Tracker,122.83,27/08/2022,pending
+902,153,Table Lamp,1167.32,2024-02-26,completed
+903,187,Bluetooth Speaker,432.02,04-27-2022,completed
+904,48,Fitness Tracker,,2022-04-26,completed
+905,133,Cookware Set,602.83,2024-12-02,completed
+906,57,Bluetooth Speaker,465.1,2022-06-17,completed
+907,52,Table Lamp,900.02,08-05-2024,canceled
+908,88,Winter Jacket,282.28,2023-04-18,pending
+909,196,Table Lamp,1710.81,29/11/2022,completed
+910,119,Coffee Maker,1243.34,2022-03-22,completed
+911,8,Cookware Set,309.06,2024-01-10,completed
+912,111,Bluetooth Speaker,1353.92,03-01-2024,refunded
+913,79,Winter Jacket,421.65,2023-05-27,completed
+914,27,Yoga Mat,237.04,2024-06-06,refunded
+915,38,Running Shoes,64.82,21/12/2022,refunded
+916,149,Yoga Mat,,08-28-2023,completed
+917,193,Winter Jacket,351.87,2022-11-11,pending
+918,50,Smart Watch,112.94,2023-10-01,canceled
+919,185,Fitness Tracker,260.29,05-30-2022,completed
+920,172,Air Purifier,463.23,06/06/2023,completed
+921,35,Cookware Set,632.52,08-26-2023,done
+922,2,Fitness Tracker,124.15,09-02-2023,done
+923,36,Bluetooth Speaker,410.64,05/05/2023,pending
+924,123,Smart Watch,364.53,2023-12-07,pending
+925,83,Office Chair,253.53,2023-07-16,completed
+926,40,Coffee Maker,878.62,11-07-2022,refunded
+927,27,Running Shoes,90.39,08-25-2022,pending
+928,43,Table Lamp,1370.45,12-11-2023,completed
+929,134,Air Purifier,996.05,25/10/2024,cancelled
+930,141,Table Lamp,471.19,2024-04-05,canceled
+931,120,Smart Watch,189.46,01/12/2023,refunded
+932,113,Cookware Set,333.58,06/10/2024,completed
+933,118,Running Shoes,90.48,12/09/2024,completed
+934,26,Office Chair,768.48,07-10-2023,canceled
+935,64,Office Chair,938.87,30/04/2022,canceled
+936,94,Cookware Set,606.4,2023-11-27,pending
+937,139,Yoga Mat,130.68,14/11/2023,cancelled
+938,162,Running Shoes,123.18,31/10/2022,pending
+939,126,Winter Jacket,433.19,07-20-2024,completed
+940,48,Winter Jacket,693.55,11/08/2024,completed
+941,8,Bluetooth Speaker,827.84,29/12/2022,completed
+942,95,Bluetooth Speaker,946.49,07/06/2023,completed
+943,98,Running Shoes,66.12,02/08/2022,refunded
+944,200,Coffee Maker,858.76,2022-07-15,completed
+945,130,Winter Jacket,,10-18-2022,completed
+946,13,Winter Jacket,,02-05-2023,pending
+947,186,Fitness Tracker,139.79,27/10/2022,completed
+948,198,Running Shoes,60.92,16/06/2022,completed
+949,68,Football,622.27,2023-05-06,pending
+950,60,Table Lamp,1243.05,15/11/2023,completed
+951,100,Bluetooth Speaker,1534.68,24/12/2022,pending
+952,49,Yoga Mat,545.6,08-08-2023,done
+953,187,Bluetooth Speaker,2066.47,2022-10-25,completed
+954,25,Yoga Mat,131.92,02-11-2024,done
+955,53,Winter Jacket,163.17,2023-12-12,done
+956,162,Smart Watch,402.5,18/11/2024,refunded
+957,133,Wireless Earbuds,188.83,28/02/2022,cancelled
+958,26,Office Chair,,2024-07-24,pending
+959,22,Fitness Tracker,511.78,09/01/2023,cancelled
+960,140,Yoga Mat,394.67,03-14-2022,cancelled
+961,9,Cookware Set,334.2,26/01/2024,completed
+962,17,Winter Jacket,570.18,2022-07-08,canceled
+963,67,Football,982.45,12/07/2022,pending
+964,67,Running Shoes,93.57,2024-12-09,refunded
+965,67,Air Purifier,1119.31,31/08/2022,completed
+966,44,Table Lamp,842.24,23/08/2023,completed
+967,53,Wireless Earbuds,185.33,2022-08-08,pending
+968,53,Football,994.67,16/05/2022,pending
+969,92,Winter Jacket,166.64,01-02-2022,completed
+970,163,Coffee Maker,277.68,01-18-2022,completed
+971,21,Backpack,231.75,2023-06-04,completed
+972,195,Backpack,52.25,2023-04-21,pending
+973,115,Wireless Earbuds,242.68,12/02/2022,completed
+974,191,Football,630.16,2023-01-19,canceled
+975,9,Backpack,49.49,27/10/2022,completed
+976,75,Hoodie,1006.75,2023-09-19,completed
+977,190,Coffee Maker,1283.86,2024-12-26,completed
+978,138,Backpack,116.52,29/01/2024,pending
+979,84,Office Chair,267.03,2024-10-03,pending
+980,118,Football,340.15,07-30-2022,cancelled
+981,98,Cookware Set,326.34,2022-08-24,canceled
+982,24,Football,1452.8,02/04/2024,completed
+983,166,Coffee Maker,661.58,2022-12-06,cancelled
+984,139,Table Lamp,824.08,07-19-2024,completed
+985,50,Winter Jacket,174.29,05-24-2023,completed
+986,107,Office Chair,499.79,2022-08-09,pending
+987,145,Table Lamp,1862.82,14/07/2024,completed
+988,125,Smart Watch,225.26,2023-08-27,pending
+989,113,Fitness Tracker,417.67,29/05/2024,cancelled
+990,106,Wireless Earbuds,78.83,2023-05-11,cancelled
+991,195,Air Purifier,263.42,19/05/2022,pending
+992,61,Coffee Maker,829.36,2024-01-17,pending
+993,121,Coffee Maker,326.29,05-17-2022,completed
+994,27,Coffee Maker,577.07,28/12/2023,completed
+995,191,Coffee Maker,638.61,02/04/2023,completed
+996,58,Office Chair,282.11,2024-05-17,cancelled
+997,21,Office Chair,709.51,2024-08-11,canceled
+998,138,Air Purifier,1005.04,2023-03-23,completed
+999,52,Table Lamp,449.52,08-24-2024,pending
+1000,113,Air Purifier,,05-02-2022,cancelled

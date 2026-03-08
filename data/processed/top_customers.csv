@@ -1,0 +1,11 @@
+customer_id,name,region,total_spend,churned
+153,Aisha Khan,East,7172.01,True
+11,Neha Singh,West,5788.0599999999995,False
+181,Aisha Sharma,South,5216.625,False
+31,Aditya Reddy,West,4899.455,False
+43,Nisha Patel,South,4849.96,True
+60,Karan Nair,South,4548.8099999999995,True
+187,Ishaan Patel,North,4396.8,True
+79,Rahul Sharma,North,4226.43,False
+184,Karan Singh,West,4140.475,True
+193,Priya Iyer,West,4121.68,True
